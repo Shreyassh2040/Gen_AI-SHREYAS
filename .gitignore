@@ -1,0 +1,13 @@
+# Secrets - never commit.
+.env
+.streamlit/secrets.toml
+
+# Python noise.
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local artefacts.
+data/
+.env
+.DS_Store
